@@ -34,7 +34,5 @@ Features: Análisis Exploratorio de Datos (EDA), modelado predictivo y aplicaci�
 📫 Contacto
 
 LinkedIn: jeremías-josé-arce
-
 Email: jerearce191205@gmail.com
-
 Ubicación: Santa Fe, Argentina 🇦🇷
