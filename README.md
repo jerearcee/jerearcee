@@ -5,8 +5,11 @@ Actualmente busco mi primera experiencia laboral en el sector IT para aplicar mi
 
 🛠️ Tecnologías y Herramientas
 Frontend: React, Next.js, Tailwind CSS
+
 Backend & Bases de Datos: Node.js, Supabase, PostgreSQL
+
 Lenguajes: C++, Python, JavaScript/TypeScript
+
 Otros: Integración de APIs (MercadoPago, Football-Data), Machine Learning básico (Scikit-learn, XGBoost)
 
 
